@@ -10,7 +10,7 @@ mkdir bin
 <br>
 cd bin
 <br>
-https://github.com/Monjurul-Hasan-Sohan/YT-hack
+git clone https://github.com/Monjurul-Hasan-Sohan/YT-hack
 <br>
 cd YT-hack
 <br>
