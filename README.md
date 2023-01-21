@@ -1,19 +1,14 @@
 LLLW#1
 
 ## dependency:
-```youtube-dl; ffmpeg; python 2.5; jq; curl;```
-```<br>``````
-```cd ~.local/```
-```<br>```
-```mkdir bin```
-```<br>```
-```cd bin```
-```<br>```
-```git clone https://github.com/Monjurul-Hasan-Sohan/YT-hack```
-```<br>```
-```cd YT-hack```
-```<br>```
-```*chmod +x YT*```
-
+```bash
+youtube-dl; ffmpeg; python 2.5; jq; curl;
+cd ~.local/
+mkdir bin
+cd bin
+git clone https://github.com/Monjurul-Hasan-Sohan/YT-hack
+cd YT-hack
+*chmod +x YT*
+```
 
 Enjoy... :")
