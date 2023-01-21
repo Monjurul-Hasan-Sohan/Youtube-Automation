@@ -1,5 +1,4 @@
-# YT-hack
-YT fun project...
+LLLW#1
 
 ## dependency:
 youtube-dl; ffmpeg; python 2.5; jq; curl;
