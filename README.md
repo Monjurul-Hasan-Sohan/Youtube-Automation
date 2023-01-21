@@ -1,4 +1,4 @@
-LLLW#1
+Are you tired of manually downloading videos from Reddit and uploading them to YouTube? Well, have no fear because this bash script is here! With just a few simple commands, you can sit back and let the script do all the heavy lifting. Think of it as a trusty steed carrying your videos from the wild west of Reddit to the shining city of YouTube. So go ahead and give it a try, and may the internet gods bless your uploads
 
 ## dependency:
 ```bash
